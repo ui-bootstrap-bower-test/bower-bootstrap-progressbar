@@ -1,6 +1,7 @@
 
 ## bootstrap-bower-progressbar
 
+test3
 This is the bower repository for the progressbar component of of the [angular-ui/bootstrap project](https://github.com/angular-ui/bootstrap) project.
 
 ### Usage
